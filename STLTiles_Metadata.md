@@ -6,11 +6,11 @@
   * **Edition -** v1.0
   * **Abstract -** This shapefile is based on the [East-West Gateway’s](http://www.ewgateway.org) orthoimagery tiles and their shapefile that provides an index of these tiles. Their shapefile covers the entire [2015 Aerial Imagery survey](http://www.ewgateway.org/pdffiles/maplibrary/aerialphotos/FactSheet-HowToGetOrthoPhotos.pdf). This shapefile has been clipped so that it only identifies orthoimagery that covers areas within the City of St. Louis.
   * **Purpose -** Provides a visual index of orthoimagery tiles covering the City of St. Louis.
-  * Maintenance Frequency - Infrequent
+  * **Maintenance Frequency -** Infrequent
   * **Keywords -** St. Louis City, Orthoimagery, Remote Sensing
   * **Constraints Use -** Available under a MIT License
   * **Constraints Text -** See the LICENSE.md file
-  * **Spatial Representation Type -** Vector
+  * **Spatial Representation Type -** Vector - Polygons
   * **Coordinate System -** NAD 1983 StatePlane Missouri East FIPS 2401 (US Feet)
   * **Language -** English
   * **Topic Category -** Orthoimagery
