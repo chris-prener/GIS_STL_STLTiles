@@ -2,7 +2,8 @@
 
 ### Repository Contents
 This repository contains files for:
-  - `/Shapefile` - Components for ESRI Shapefile format
+  - `/GeoJSON` - GeoJSON File
+  - `/Shapefile` - Components for ESRI Shapefile
   - `STLTiles_Metadata.md` - Shapefile metadata
   - `STLTiles_Preview.md` - Preview image of the shapefile
   - `LICENSE.md`
